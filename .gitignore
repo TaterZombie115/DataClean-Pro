@@ -1,0 +1,27 @@
+
+# Entornos virtuales
+.venv/
+venv/
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Archivos generados por PyInstaller
+build/
+dist/
+
+# Archivos temporales
+*.log
+*.tmp
+
+# Resultados de procesamiento
+datos_ejemplo/resultados/
+
+# Configuración local de VS Code
+.vscode/
+
+# Archivos del sistema
+Thumbs.db
+.DS_Store
