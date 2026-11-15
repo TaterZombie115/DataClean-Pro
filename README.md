@@ -93,11 +93,45 @@ python interfaz_moderna.py
 ### Reporte Excel generado
 ![Resumen del reporte Excel](docs/imagenes/reporte_excel.png)
 
-## 📦 Ejecutable para Windows
+## 📦 Descargar DataClean Pro para Windows
 
-DataClean Pro también cuenta con una versión ejecutable para Windows.
+Puedes descargar la versión ejecutable desde:
 
-La descarga se publicará en la sección **Releases** del repositorio.
+[Descargar DataClean Pro v1.0.0](https://github.com/TaterZombie115/DataClean-Pro/releases/tag/v1.0.0)
+
+### Instalación
+
+1. Descarga `DataCleanPro-v1.0.0-Windows.zip`.
+2. Extrae completamente el archivo ZIP.
+3. Abre la carpeta `DataClean Pro`.
+4. Ejecuta `DataClean Pro.exe`.
+
+No necesitas instalar Python.
+
+### 📊 Archivos de prueba incluidos
+
+La descarga contiene la carpeta `datos_ejemplo` con:
+
+- `ventas_con_errores.csv`: prueba de limpieza y detección de errores.
+- `ventas_prueba.csv`: prueba básica de procesamiento.
+- `prueba_50000.csv`: prueba de rendimiento con 50,000 registros.
+
+Puedes utilizar estos archivos para comprobar las funciones de DataClean Pro.
+
+### 🛡️ Aviso de seguridad de Windows
+
+Windows SmartScreen puede mostrar una advertencia porque
+DataClean Pro es una aplicación nueva que todavía no
+cuenta con firma digital ni reputación establecida.
+
+Esta advertencia no implica necesariamente que el archivo
+contenga malware.
+
+Descarga la aplicación únicamente desde este repositorio
+oficial y analiza el ejecutable con Microsoft Defender
+antes de utilizarlo.
+
+No es necesario desactivar las protecciones de Windows.
 
 ## 👨‍💻 Desarrollador
 
